@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ሰላም ✌🏽, I'm Ged.
 <img align="right" width="320" height="280" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
 <br />
 
@@ -24,11 +23,10 @@ Here are some ideas to get you started:
 
 ---
 
-* 🌱 Always learning new things. 🐶
-* 🎯 I Plan to contribute more to opensource this year.
-* 👻 Fun fact you didn't know: The moon has moonquakes!
+*  Test
+* 🎯 Test
+* 👻 Test
 
-- Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gediont.github.io) to learn more about me.
 
 ---
 ![my github stats](https://readmestats.999857.xyz/api?username=abrehamgezahegn&count_private=true&show_icons=true)
