@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Sir Abreham
+### 👋 Hello, I'm Abreham
 
 I'm a software engineer at [TextcortexAI](https://textcortex.com/), where I dive deep into the world of React, Document Object Model ([DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)) and browser internals by building [chrome extensions](https://chrome.google.com/webstore/detail/textcortex-ai-writing-ass/hahkojdegblcccihngmgndhdfheheofe). I'm constantly trying to understand about how the web works from the inside out.
 
