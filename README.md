@@ -5,7 +5,6 @@ I'm a software engineer (Fullstack) at [TextcortexAI](https://textcortex.com/), 
 #### 🌱 Currently Exploring
 
 - [Remix](https://remix.run/): My latest journey in web development.
-- [Mixed Martial Arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts): A different kind of coding – in the ring!
 
 #### 💬 Let's Talk About
 
@@ -13,7 +12,6 @@ I'm a software engineer (Fullstack) at [TextcortexAI](https://textcortex.com/), 
 - Startups: From code to company building.
 - Philosophy: Exploring the depths of thought.
 - The Brain 🧠: Our most mysterious organ.
-- How the Internet Works: Demystifying the digital realm.
 
 #### 📚 Recent Reads
 
@@ -21,10 +19,6 @@ I'm a software engineer (Fullstack) at [TextcortexAI](https://textcortex.com/), 
 - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 - [Pragmatic Thinking and Learning](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
 
-#### ⚡ Fun Facts
-
-- Rookie Kickboxer: Unleashing my inner warrior.
-- Failed Music Producer 🎵: My code rocks better than my tunes!
 
 #### 📫 Reach Out
 
