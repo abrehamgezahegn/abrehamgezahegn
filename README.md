@@ -2,7 +2,7 @@
 
 I'm a founding engineer at [TextcortexAI](https://textcortex.com/), where I maintain agent harness for enterprise customers.   
 
-At early stages I use to dive deep into the world of the web, Document Object Model ([DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)) and browser internals by building a [chrome extension](https://chrome.google.com/webstore/detail/textcortex-ai-writing-ass/hahkojdegblcccihngmgndhdfheheofe). Trying to understand about how the web works from inside out.
+At early stages I use to dive deep into the world of the web, DOM and browser internals by building a [chrome extension](https://chrome.google.com/webstore/detail/textcortex-ai-writing-ass/hahkojdegblcccihngmgndhdfheheofe). Trying to understand about how the web works from inside out.
 
 #### 📚 Recent Reads
 
