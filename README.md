@@ -13,7 +13,7 @@ At early stages I use to dive deep into the world of the web, DOM and browser in
 
 #### 📫 Reach Out
 
-Feel free to [email me](mailto:abreham0913@gmail.com) at `abreham0913@gmail.com` if you want to connect, chat, or collaborate.
+`abreham0913@gmail.com` ( [email me](mailto:abreham0913@gmail.com) )
 
 
 ---
