@@ -13,7 +13,7 @@ At early stages I use to dive deep into the world of the web, DOM and browser in
 
 #### 📫 Reach Out
 
-`abreham0913@gmail.com` ( [email me](mailto:abreham0913@gmail.com) )
+`abreham0913@gmail.com` ( [email](mailto:abreham0913@gmail.com) )
 
 
 ---
